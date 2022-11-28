@@ -9,7 +9,7 @@ jogo1 = Jogo1()
 jogo1.vencedor(2, "Suiça", "6", "Xaka, Xakiri, Embolo, Elvedi, Schar")
 
 jogo2 = Jogo2()
-jogo2.vencedor(3, "", "4", "Onana, Kanu, Mbeumo, Ekambi, Wooh ")
+jogo2.vencedor(3, "Camarôes", "4", "Onana, Kanu, Mbeumo, Ekambi, Wooh ")
 
 jogo3 = Jogo3()
 jogo3.vencedor(1, "Brasil   ", "9", "Fred, Rafinha, Richarlison, Paqueta, Vini")
